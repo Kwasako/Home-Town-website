@@ -9,7 +9,8 @@ img {
 }
 .hero{
     background: url("tal-community.jpg");
-    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
     height: 343px;
     padding-top:100px;
     color:#F1FAEE;
